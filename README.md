@@ -8,3 +8,5 @@
 - 编辑内容仅保存在访问者本机浏览器中
 
 发布地址：https://3377597100.github.io/kaoshiwang/
+
+GitHub Pages 使用 GitHub Actions 自动发布。
